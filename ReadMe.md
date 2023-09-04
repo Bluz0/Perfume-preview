@@ -10,3 +10,6 @@ This is a solution to the Product preview card component challenge on Frontend M
 ## Overview
 
 ### Screenshot
+
+![](images/screen1.png)
+![](images/screen2.png)
