@@ -12,4 +12,7 @@ This is a solution to the Product preview card component challenge on Frontend M
 ### Screenshot
 
 ![](images/screen1.png)
+
+#### The Responsive 
+
 ![](images/screen2.png)
